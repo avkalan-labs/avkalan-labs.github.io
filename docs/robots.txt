@@ -1,1 +1,1 @@
-Sitemap: https://eigen.avkalanlabs.com/sitemap.xml
+Sitemap: https://avkalanlabs.com/sitemap.xml
